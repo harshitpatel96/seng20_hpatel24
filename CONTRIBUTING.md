@@ -26,8 +26,6 @@ You should know that this is a test repository and you should not file an issue 
 
 ## How Can I Contribute?
 
-If you find 
-
 ### Reporting Bugs
 
 This section guides you through submitting a bug report for CSC-510-HW1. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
